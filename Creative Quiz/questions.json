@@ -1,0 +1,45 @@
+[
+    {
+      "question": "Which of the following systems was the first to defeat a professional human Go player using deep reinforcement learning?",
+      "options": ["DeepBlue", "AlphaZero", "AlphaGo", "MuZero"],
+      "answer": "AlphaGo"
+    },
+    {
+      "question": "What is the main consequence of overfitting in a machine learning model?",
+      "options": ["It becomes computationally unstable","It misclassifies even the training data","It performs poorly on unseen data","It fails to update weights during training"],
+      "answer": " It performs poorly on unseen data"
+    },
+    {
+        "question": "⁠Which architecture introduced the self-attention mechanism that transformed natural language processing?",
+        "options": ["RNN","Transformer", "GRU","CNN"],
+        "answer": "Transformer"
+      },{
+        "question": "⁠What is the significance of “bias” in practical AI systems?",
+        "options": ["Fluctuating hardware performance","Imbalanced training datasets","High learning rate during training","Excessive regularization"],
+        "answer": "Imbalanced training datasets"
+      },{
+        "question": "⁠In reinforcement learning, what role does the “reward function” serve?",
+        "options": ["Reduces the model’s memory footprint","Defines the goal or desired behavior","Splits the data into episodes","Stores the environment’s state"],
+        "answer": " Defines the goal or desired behavior"
+      },{
+        "question": "⁠Which of the following best describes the core function of an unsupervised learning algorithm?",
+        "options": ["Predicting future outcomes from labeled data","Learning associations from predefined classes","Discovering patterns in unlabelled data","Mapping inputs to discrete outputs"],
+        "answer": " Discovering patterns in unlabelled data"
+      },{
+        "question": "⁠Which of these issues is often associated with large language models like ChatGPT?",
+        "options": [" Slow convergence during training","Excessive reliance on symbolic logic","Generation of plausible but false statements","Difficulty learning basic grammar"],
+        "answer": "Generation of plausible but false statements"
+      },{
+        "question": " ⁠In the context of AI, what does the term “black box” typically imply?",
+        "options": ["The model's predictions are consistent but inefficient","The inner logic of the system is not easily interpretable","The algorithm cannot be tested using standard tools","The model relies solely on encrypted inputs"],
+        "answer": "The inner logic of the system is not easily interpretable"
+      },{
+        "question": "⁠What aspect of GPT-style models makes them different from traditional rule-based systems?",
+        "options": ["They use deterministic output structures","They rely on explicit logic trees","They learn probabilistic patterns from massive data","They follow pre-written conversational flows"],
+        "answer": "They learn probabilistic patterns from massive data"
+      },{
+        "question": "Why might an AI model trained on European driving data perform poorly in Southeast Asia?",
+        "options": ["Road rules differ significantly","Lack of computational power","Differences in programming language","Fewer AI tools available in that region"],
+        "answer": "Road rules differ significantly"
+      }
+  ]
